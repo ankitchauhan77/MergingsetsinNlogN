@@ -1,5 +1,6 @@
 //https://cses.fi/problemset/task/1139/
 //https://usaco.guide/plat/merging?lang=cpp
+//https://codeforces.com/contest/600/problem/E
 #pragma GCC optimize("Ofast")
 #pragma GCC optimization("unroll-loops")
 #include <bits/stdc++.h>
